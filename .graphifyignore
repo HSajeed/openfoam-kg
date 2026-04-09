@@ -1,0 +1,11 @@
+platforms/
+lnInclude/
+build/
+*.dep
+*.o
+*.a
+Make/
+wmake/
+doc/Doxygen/
+applications/test/
+ThirdParty/
